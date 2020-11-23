@@ -1,0 +1,3 @@
+rootProject.name='MavenTest'
+include ':app'
+include ':mavenlibrary'
